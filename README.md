@@ -65,25 +65,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanavCodes&show_icons=true&theme=tokyonight&hide_border=false" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanavCodes&theme=tokyonight&hide_border=false" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanavCodes&layout=compact&theme=tokyonight&hide_border=false" height="165">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=PanavCodes&data=followers,repositories,stars,commits&theme=tokyonight" alt="Profile Widget"/>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PanavCodes&theme=tokyonight&no-frame=true&margin-w=5" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -92,18 +79,6 @@
   <a href="https://github.com/PanavCodes"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/panav-khungar-3bb76b390/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/31837818/panav-khungar"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-</p>
-
----
-
-### 🎨 Fun Visuals
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PanavCodes&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=PanavCodes&data=followers,repositories,stars,commits&theme=tokyonight" alt="Profile Widget"/>
 </p>
 
 ---
