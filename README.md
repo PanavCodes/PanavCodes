@@ -23,9 +23,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,r,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,sqlite,pandas,numpy,figma,canva,vscode,powershell,cisco,jupyter" /><br>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="90%">
-</p>
 
 ---
 
@@ -84,3 +81,7 @@
 ---
 
 ⭐ **_“Code. Learn. Improve. Repeat.”_**
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="90%">
+</p>
