@@ -5,12 +5,6 @@
   💻 <b>Aspiring Developer | Tech Explorer | Problem Solver</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PanavCodes&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/PanavCodes?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/PanavCodes?label=Stars&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
